@@ -334,4 +334,12 @@ main a:hover {
   .publication-award {
     font-size: 15px;
   }
+  .publication-award a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .publication-award a:hover {
+    text-decoration: underline;
+  }
 }
